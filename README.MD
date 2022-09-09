@@ -9,6 +9,7 @@ After refreshing page all entered info was saved in local storage.
 To do list project is created with:
 
 * Bootstrap v5.2
+* JavaScript
 
 
 ### 
